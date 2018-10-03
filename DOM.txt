@@ -1,0 +1,6 @@
+https://examples.javacodegeeks.com/core-java/xml/dom/add-attribute-in-dom-element/
+
+how to read an XML file via DOM XML parser. DOM parser parses the entire XML document and loads it into memory; then models it in a “TREE” structure for easy traversal or manipulation.
+
+
+http://www.mkyong.com/java/how-to-read-xml-file-in-java-dom-parser/
